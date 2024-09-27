@@ -1,0 +1,1 @@
+export const server_url='https://mp-server-b5-june.onrender.com'
